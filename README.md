@@ -1,5 +1,5 @@
 # Financial_Map
-经过调整整合，triple_without_relation.py可以生成出事件关系外的其他三元组，包括事件，触发词，公司，观点，人名之间的关系。
+经过调整整合，triple_opinion_event.py可以生成出事件关系外的其他三元组，包括事件，触发词，公司，观点，人名之间的关系。
 causality.py可以生成事件因果关系的三元组。
 
 发现的可能存在的问题：
